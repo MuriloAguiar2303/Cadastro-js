@@ -24,3 +24,7 @@ function sair(){
     alert("Até mais")
     area.innerHTML = "Você saiu!!!!!!!!!!"
 }
+
+label.removeAttribute("hidden")
+nome.removeAttribute("hidden")
+botaoEntrar.removeAttribute("hidden")
